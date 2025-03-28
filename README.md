@@ -10,7 +10,7 @@ A lightweight, high-performance animation library for creating smooth, responsiv
 - **Intersection Observer**: Efficient scroll-based animations
 - **Easy to Use**: Simple data-attribute API
 - **Zero Dependencies**: No external dependencies required
-- **Lightweight**: Only 12.06KB uncompressed (CSS: 7.47KB, JS: 4.59KB), ~4KB minified
+- **Lightweight**: Only 12.06KB compressed (CSS: 7.47KB, JS: 4.59KB), ~4KB minified
 - **Multiple Effects**: 10+ built-in animation effects
 - **Customizable**: Flexible configuration options
 - **Performance Mode**: Automatic performance optimization for large number of animations
