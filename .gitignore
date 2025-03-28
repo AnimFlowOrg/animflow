@@ -4,7 +4,6 @@ package-lock.json
 yarn.lock
 
 # Build output
-dist/
 coverage/
 .nyc_output/
 *.tsbuildinfo
@@ -44,3 +43,4 @@ coverage/
 
 # Optional eslint cache
 .eslintcache
+.eslintcache.json
