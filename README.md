@@ -189,16 +189,6 @@ Different animation patterns for grouped elements:
 6. Choose appropriate batch sizes based on device capabilities
 7. Use group modes effectively for complex animations
 
-## Examples
-
-Check out the example files in the repository:
-
-- `responsive-test.html`: Responsive design testing
-- `svg-test.html`: SVG animation examples
-- `test.html`: Basic animation examples
-- `performance-test.html`: Performance mode testing
-- `groups-test.html`: Group animation examples
-
 ## License
 
 MIT License - Feel free to use in personal and commercial projects.
