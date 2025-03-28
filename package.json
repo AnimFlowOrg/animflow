@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/animflow/animflow.git"
+    "url": "git+https://github.com/AnimFlowOrg/animflow.git"
   },
   "keywords": [
     "animation",
@@ -37,9 +37,9 @@
   "author": "AnimFlowOrg",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/animflow/animflow/issues"
+    "url": "https://github.com/AnimFlowOrg/animflow/issues"
   },
-  "homepage": "https://github.com/animflow/animflow#readme",
+  "homepage": "https://github.com/AnimFlowOrg/animflow#readme",
   "devDependencies": {
     "@babel/core": "^7.24.0",
     "@babel/preset-env": "^7.24.0",
