@@ -20,12 +20,22 @@ A lightweight, high-performance animation library for creating smooth, responsiv
 
 ### Using CDN
 
+#### jsDelivr
 ```html
-<!-- CSS (7.47KB) -->
-<link rel="stylesheet" href="dist/css/AnimFlow.main.css">
+<!-- CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animflow@latest/dist/css/AnimFlow.css">
 
-<!-- JavaScript (4.59KB) -->
-<script src="dist/js/AnimFlow.main.js"></script>
+<!-- JavaScript -->
+<script src="https://cdn.jsdelivr.net/npm/animflow@latest/dist/js/AnimFlow.js"></script>
+```
+
+#### unpkg
+```html
+<!-- CSS -->
+<link rel="stylesheet" href="https://unpkg.com/animflow@latest/dist/css/AnimFlow.css">
+
+<!-- JavaScript -->
+<script src="https://unpkg.com/animflow@latest/dist/js/AnimFlow.js"></script>
 ```
 
 ### Using npm
@@ -34,14 +44,14 @@ A lightweight, high-performance animation library for creating smooth, responsiv
 npm install animflow
 ```
 
-Then import in your project:
+Then use in your project:
 
 ```javascript
-// Import CSS
-import 'animflow/dist/css/AnimFlow.main.css';
+// Require CSS
+require('animflow/dist/css/AnimFlow.main.css');
 
-// Import JavaScript
-import AnimFlow from 'animflow/dist/js/AnimFlow.main.js';
+// Require JavaScript
+const AnimFlow = require('animflow/dist/js/AnimFlow.main.js');
 ```
 
 ## Basic Usage
