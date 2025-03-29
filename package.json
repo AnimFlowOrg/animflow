@@ -1,6 +1,6 @@
 {
   "name": "animflow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight, high-performance animation library for creating smooth, responsive web animations",
   "main": "dist/js/AnimFlow.main.js",
   "style": "dist/css/AnimFlow.css",
