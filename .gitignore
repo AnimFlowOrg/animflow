@@ -3,6 +3,10 @@ node_modules/
 package-lock.json
 yarn.lock
 
+# Source directories
+/css/
+/js/
+
 # Build output
 coverage/
 .nyc_output/
